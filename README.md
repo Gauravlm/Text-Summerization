@@ -1,7 +1,7 @@
 # Text-Summerization
 
 ## WorkFlows
-* update the files    
+* update the following files    
 1. config/config.yaml
 2. params.yaml
 3. src/textSummarizer/entity
